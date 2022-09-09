@@ -1,0 +1,1 @@
+import{_ as t,c as e,o,e as s}from"./index.0974a06d.js";const c={},n={class:"flex justify-center lg:pt-80 pt-60 pb-52"},a=s("h2",{class:"font-mainbold text-4xl"},"Coming soon...",-1),_=[a];function r(i,l){return o(),e("div",n,_)}const f=t(c,[["render",r]]);export{f as default};
